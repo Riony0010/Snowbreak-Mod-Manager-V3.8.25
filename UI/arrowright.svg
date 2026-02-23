@@ -1,0 +1,10 @@
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <polyline 
+    points="9 7 12 10 9 13"
+    fill="none"
+    stroke="#555555"
+    stroke-width="2.3"
+    stroke-linecap="round"
+    stroke-linejoin="miter"
+  />
+</svg>
